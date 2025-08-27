@@ -16,9 +16,6 @@ A curated list of applied machine learning and data science notebooks and librar
 If you want to contribute to this list (please do), send me a pull request or contact me [Chandan Yadav](https://x.com/Chandan41294898) or on [linkedin](https://www.linkedin.com/in/chandan-yadav-89aaa3253/).
 Also, a listed repository should be deprecated if:
 
-* Repository's owner explicitly say that "this library is not maintained".
-* Not committed for long time (2~3 years).
-
 </br>
 
 **Help Needed:** If there is any contributors out there willing to help first populate and then maintain a Python analytics section **in any one of the following sub/industries,** please get in contact with me. Also contact me to add **additional industries**. 
